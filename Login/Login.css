@@ -24,6 +24,7 @@ body {
 
 h1 {
     padding-top: 2rem;
+    /* font-size: 2.3vw; */
     cursor: default;
 }
 
@@ -142,3 +143,54 @@ h1 {
     background-color: cadetblue;
     display: none;
 }
+
+
+@media (max-width : 1200px) {
+    .container {
+        width: 20vw;
+    }
+}
+
+
+@media (max-width : 1000px) {
+    .container {
+        width: 25vw;
+    }
+}
+
+
+@media (max-width : 900px) {
+    .container {
+        width: 27vw;
+    }
+}
+
+
+@media (max-width : 750px) {
+    .container {
+        width: 30vw;
+    }
+}
+
+
+@media (max-width : 650px) {
+    .container {
+        width: 35vw;
+    }
+}
+
+
+@media (max-width : 450px) {
+    .container {
+        width: 44vw;
+        height: 80vh;
+    }
+}
+
+
+@media (max-width : 350px) {
+    .container {
+        width: 50vw;
+    }
+}
+
