@@ -148,6 +148,8 @@ h1 {
 @media (max-width : 1200px) {
     .container {
         width: 20vw;
+        height: auto;
+        padding-bottom: 5vw;
     }
 }
 
@@ -183,7 +185,6 @@ h1 {
 @media (max-width : 450px) {
     .container {
         width: 44vw;
-        height: 80vh;
     }
 }
 
