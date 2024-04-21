@@ -37,6 +37,7 @@
 
 .search-area button{
     height: 35px;
+    cursor: pointer;
     width: 2.5vw;
     border-left: none;
     border-radius: 0px 10px 10px 0px;
