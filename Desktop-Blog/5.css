@@ -38,6 +38,7 @@
 .search-area button{
     height: 35px;
     width: 2.5vw;
+    cursor: pointer;
     border-left: none;
     border-radius: 0px 10px 10px 0px;
     background-color: rgb(84, 86, 119);
