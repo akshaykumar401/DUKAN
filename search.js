@@ -109,3 +109,9 @@ function cheaker(){
 
 
 btn.addEventListener("click", cheaker);
+
+input.addEventListener("keydown", (event) => {
+    if (event.key === "Enter") {
+      cheaker();
+    }
+});
