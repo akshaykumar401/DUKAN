@@ -1,10 +1,10 @@
-# Hey Guy This is My Simple Froont ecommerce website. <DUKAN>
+# Hey Guy This is My Simple Froont ecommerce website. "DUKAN"
 
 This is My Project ame "DUKAN" Special Made with HTML, CSS, JS. <br>
 In This Project Main Key Point is To Style the Application, and Make Attractive GUI with CSS. <br>
 and Also Make this Web Application Responsive. <br>
 
-## You Can See This ecommerce website Name <DUKAN>
+## You Can See This ecommerce website Name "DUKAN"
 
 Link For "DUKAN" -> https://akshaykumar401.github.io/DUKAN/ <br>
 
